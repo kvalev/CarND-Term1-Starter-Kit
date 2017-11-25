@@ -22,6 +22,6 @@ dependencies:
     - pyqt=4.11.4
     - pip:
         - moviepy
-        - tensorflow==1.4.0
+        - tensorflow-gpu==1.4.0
         - keras==2.1.1
         - imgaug
